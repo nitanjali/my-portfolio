@@ -1,0 +1,9 @@
+// import NeoBankPortfolio from "./components/NeoBankPortfolio";
+import PortfolioSite from "./components/portfolio";
+
+function App() {
+  return <PortfolioSite />;
+  // <NeoBankPortfolio />;
+}
+
+export default App;
