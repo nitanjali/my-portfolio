@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import PortfolioSite from "./PortfolioSite";
+import PortfolioSite from "./PortfolioSite.jsx";
 import FinbankCaseStudy from "./pages/FinbankCaseStudy";
 import NoirWorkspace from "./pages/NoirWorkspace";
 
